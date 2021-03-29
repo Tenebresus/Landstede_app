@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Landstede_app</string>
+
+    <string-array name="categorie_keuze">
+        <item>Grondkabels</item>
+        <item>Luchtkabels</item>
+        <item>Hoogspanningsmasten</item>
+        <item>Schakelkasten</item>
+    </string-array>
+</resources>
